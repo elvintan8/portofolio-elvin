@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portofolio-elvin/static/css/main.f6cfab1c.css",
+    "main.js": "/portofolio-elvin/static/js/main.67dbe740.js",
+    "static/js/453.f51b7f31.chunk.js": "/portofolio-elvin/static/js/453.f51b7f31.chunk.js",
+    "static/media/dnd-jambi.jpg": "/portofolio-elvin/static/media/dnd-jambi.caf967c09944d03e1ca2.jpg",
+    "static/media/elvin-img.jpg": "/portofolio-elvin/static/media/elvin-img.cd027145290f98433e91.jpg",
+    "static/media/afrika-kids.jpg": "/portofolio-elvin/static/media/afrika-kids.b57a0c3a807bff4e0b4a.jpg",
+    "static/media/about-img.jpg": "/portofolio-elvin/static/media/about-img.a9e5346f06c8e482cec4.jpg",
+    "index.html": "/portofolio-elvin/index.html",
+    "main.f6cfab1c.css.map": "/portofolio-elvin/static/css/main.f6cfab1c.css.map",
+    "main.67dbe740.js.map": "/portofolio-elvin/static/js/main.67dbe740.js.map",
+    "453.f51b7f31.chunk.js.map": "/portofolio-elvin/static/js/453.f51b7f31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cfab1c.css",
+    "static/js/main.67dbe740.js"
+  ]
+}
